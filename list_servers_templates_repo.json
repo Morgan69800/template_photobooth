@@ -1,15 +1,15 @@
 {
   "serveurs": [
     {
-      "repository_user": "Morgan69800",
-      "repository_name": "repository_template",
-      "repository_branch": "main",
+      "owner": "Morgan69800",
+      "nom_repository": "For comunuty",
+      "adresse_web_repository": "https://raw.githubusercontent.com/Morgan69800/repository_template/main/repository.json",
       "image_repo": "https://play-lh.googleusercontent.com/IeNJWoKYx1waOhfWF6TiuSiWBLfqLb18lmZYXSgsH1fvb8v1IYiZr5aYWe0Gxu-pVZX3=w240-h480-rw"
     },
     {
-      "repository_user": "Morgan69800",
-      "repository_name": "repository_template",
-      "repository_branch": "main",
+      "owner": "Morgan69800",
+      "nom_repository": "For test",
+      "adresse_web_repository": "https://raw.githubusercontent.com/Morgan69800/repository_template/main/repository.json",
       "image_repo": "https://images.unsplash.com/photo-1495615080073-6b89c9839ce0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c3F1YXJlfGVufDB8fDB8fHww&w=1000&q=80"
     }
   ]
