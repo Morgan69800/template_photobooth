@@ -1,0 +1,22 @@
+{
+  "serveurs": [
+    {
+      "adresse_web_repository": "https://github.com/serveur155",
+      "nom_repository": "Morgan's repo templates",
+      "nombre_de_fichiers": 52,
+      "owner": "Utilisateur1"
+    },
+    {
+      "adresse_web_repository": "https://gitlab.com/serveur2",
+      "nom_repository": "Serveur 2",
+      "nombre_de_fichiers": 37,
+      "owner": "Utilisateur2"
+    },
+    {
+      "adresse_web_repository": "https://bitbucket.org/serveur3",
+      "nom_repository": "Serveur 3",
+      "nombre_de_fichiers": 45,
+      "owner": "Utilisateur3"
+    }
+  ]
+}
